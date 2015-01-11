@@ -1,7 +1,7 @@
 # Anagramino
 Solver for 'Anagram Magic' game on Miniclip
 
-Input letters you get in the game to get the best solutions in under a second.
+Input the letters you got in the game to receive the best solutions in under a second.
 
 If you have letters that are worth more than 1 point just type the letter and the value right after. For example, if you got letter E which worth 3 points write 'e3' among your other letters.
 
